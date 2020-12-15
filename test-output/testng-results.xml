@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88415" started-at="2020-11-27T05:42:48Z" finished-at="2020-11-27T05:44:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88415" started-at="2020-11-27T05:42:48Z" finished-at="2020-11-27T05:44:17Z">
+      <class name="com.automation.keyworddriven.scropts.VerifyLoginPage">
+        <test-method status="PASS" signature="checkvalidateuser()[pri:0, instance:com.automation.keyworddriven.scropts.VerifyLoginPage@5906ebcb]" name="checkvalidateuser" duration-ms="88362" started-at="2020-11-27T11:12:48Z" finished-at="2020-11-27T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkvalidateuser -->
+      </class> <!-- com.automation.keyworddriven.scropts.VerifyLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
